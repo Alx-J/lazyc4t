@@ -104,5 +104,3 @@ echo "Detailed scan results saved to scan_results.txt"
 # Perform a UDP scan on the target
 nmap -sU -sV -F -open "$ip" -oN udp_scan_results.txt
 
-cat scan_results.txt
-cat udp_scan_results.txt
