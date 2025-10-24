@@ -1,7 +1,7 @@
 #!/bin/bash
 
-##   LazyCat      : 	Automated Nmap tool (preferred for boxes)
-##   Author       : 	Alx-J 
+##   LazyCat    : 	Automated Nmap tool (preferred for boxes)
+##   Author 	: 	Alx-J 
 ##   Version  	: 	1.0
 ##   Github   	: 	https://github.com/Alx-J/lazyc4t
 
